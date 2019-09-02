@@ -1,6 +1,5 @@
 # Factorial of a given Integer
 
-
 # Non Recursive
 def fact(n):
     j = n
